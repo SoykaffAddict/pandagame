@@ -1,0 +1,5 @@
+shoot.wav = "Laser shoot" by MusicLegends is licensed under CC BY 3.0.
+enemy_hit.wav = "Kill Enemy 8 Bit.wav" by Mrthenoronha is licensed under CC BY-NC 4.0."
+images = MIT License, got it from www.sheepolution.com
+
+
